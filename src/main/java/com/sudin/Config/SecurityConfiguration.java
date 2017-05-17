@@ -1,3 +1,4 @@
+/*
 package com.sudin.Config;
 
 import org.springframework.context.annotation.Bean;
@@ -11,9 +12,11 @@ import org.springframework.security.web.authentication.www.BasicAuthenticationFi
 import javax.servlet.Filter;
 
 
+*/
 /**
  * Created by Sudin Ranjitkar on 5/16/2017.
- */
+ *//*
+
 @Configuration
 @EnableWebSecurity
 public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
@@ -43,3 +46,4 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
         return new customFilter();
     }
 }
+*/

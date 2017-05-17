@@ -1,3 +1,4 @@
+/*
 package com.sudin.Config;
 
 import javax.servlet.*;
@@ -5,9 +6,11 @@ import javax.servlet.http.HttpServletRequest;
 import java.io.IOException;
 import java.security.Principal;
 
+*/
 /**
  * Created by Sudin Ranjitkar on 5/16/2017.
- */
+ *//*
+
 public class customFilter implements Filter {
     @Override
     public void init(FilterConfig filterConfig) throws ServletException {
@@ -27,3 +30,4 @@ public class customFilter implements Filter {
         System.out.println("destroy called");
     }
 }
+*/
